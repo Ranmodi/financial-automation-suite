@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+*.env
+secrets/
+credentials/
+*.json
+*.pem
+*.key
+
+# Real/private files
+input/
+output/
+logs/
+*.xlsx
+*.xlsm
+*.xls
+!samples/*.csv
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Cache
+.pytest_cache/
+.coverage
+htmlcov/

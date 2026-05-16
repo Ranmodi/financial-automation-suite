@@ -1,0 +1,4 @@
+Account,Movement Type,Net Amount,Date
+000001,Margin Call,-2500.00,2026-01-02
+000002,Regular Settlement,1000.00,2026-01-02
+000003,Margin Adjustment,-500.00,2026-01-03
